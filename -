@@ -1,3 +1,4 @@
 -- For Mobile Copy:
 loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/Eh79OWhNoEXYG6G1/raw", true))()
-loadstring(game:HttpGet("
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shutupmagnus-lang/Tradegag/refs/heads/main/Protected_7742734286907947.lua))()
