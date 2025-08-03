@@ -1,0 +1,3 @@
+-- For Mobile Copy:
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/Eh79OWhNoEXYG6G1/raw", true))()
+loadstring(game:HttpGet("
